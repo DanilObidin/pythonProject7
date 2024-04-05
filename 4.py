@@ -1,3 +1,3 @@
 a = int(input())
-r = sum(range(1, a))
-print(r+a)
+r = sum(range(1, a+1))
+print(r)
